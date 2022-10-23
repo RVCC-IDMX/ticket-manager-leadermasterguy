@@ -30,5 +30,8 @@
   },
   "events": {
     "start": "cls || clear"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
